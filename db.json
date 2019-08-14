@@ -1,0 +1,84 @@
+{
+   "student":[
+      {
+         "id":1,
+         "name":"Jacky Chan",
+         "address":"Hong Kong",
+         "secondary":"St. Peter"
+      },
+      {
+         "id":2,
+         "name":"Peter Chow",
+         "address":"Hong Kong",
+         "secondary":"St. Peter"
+      },
+      {
+         "id":3,
+         "name":"John",
+         "address":"HHong Kong",
+         "secondary":"St. Peter"
+      },
+      {
+         "id":4,
+         "name":"James Pon",
+         "address":"Hong Kong",
+         "secondary":"St. Peter"
+      },
+      {
+         "id":5,
+         "name":"B Leung",
+         "address":"Hong Kong",
+         "secondary":"St. Peter"
+      },
+      {
+         "id":6,
+         "name":"Patrick Lai",
+         "address":"Hong Kong",
+         "secondary":"St. Peter"
+      }
+   ],
+   "tutor":[
+      {
+         "id":1,
+         "name":"B Leung",
+         "address":"Hong Kong",
+         "university":"HKU",
+         "major":"law"
+      },
+      {
+         "id":2,
+         "name":"B Leung",
+         "address":"Hong Kong",
+         "university":"HKU",
+         "major":"law"
+      },
+      {
+         "id":3,
+         "name":"B Leung",
+         "address":"Hong Kong",
+         "university":"HKU",
+         "major":"law"
+      },
+      {
+         "id":4,
+         "name":"B Leung",
+         "address":"Hong Kong",
+         "university":"HKU",
+         "major":"law"
+      },
+      {
+         "id":5,
+         "name":"B Leung",
+         "address":"Hong Kong",
+         "university":"HKU",
+         "major":"law"
+      },
+      {
+         "id":6,
+         "name":"B Leung",
+         "address":"Hong Kong",
+         "university":"HKU",
+         "major":"law"
+      }
+   ]
+}
